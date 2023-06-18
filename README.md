@@ -1,1 +1,1 @@
-# wizweather
+# WeatherWhisker
